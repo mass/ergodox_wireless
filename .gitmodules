@@ -1,0 +1,3 @@
+[submodule "kicad-lib-mass"]
+	path = hardware/vendor/kicad-lib
+	url = git@github.com:mass/kicad-lib

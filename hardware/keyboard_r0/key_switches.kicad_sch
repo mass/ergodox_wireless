@@ -157,23 +157,22 @@
 				)
 			)
 		)
-		(symbol "Switch:SW_Push_Dual"
+		(symbol "mass:SW_Push_Dual"
 			(pin_names
 				(offset 1.016) hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "SW"
-				(at 1.27 2.54 0)
+				(at 0 5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
 			(property "Value" "SW_Push_Dual"
-				(at 0 -6.858 0)
+				(at 0 -7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -198,7 +197,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Push button switch, generic, symbol, four pins"
+			(property "Description" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -7981,7 +7980,7 @@
 		(uuid "fa403829-4433-4be6-b14c-f1b6ee90e633")
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 101.6 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8054,7 +8053,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 101.6 160.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8127,7 +8126,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 203.2 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8410,7 +8409,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 76.2 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8763,7 +8762,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 101.6 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8906,7 +8905,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 152.4 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8979,7 +8978,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 127 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9192,7 +9191,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 127 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9265,7 +9264,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 203.2 160.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9688,7 +9687,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 152.4 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9971,7 +9970,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 152.4 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10044,7 +10043,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 127 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10327,7 +10326,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 177.8 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10750,7 +10749,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 101.6 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10823,7 +10822,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 177.8 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10966,7 +10965,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 177.8 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11179,7 +11178,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 203.2 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11602,7 +11601,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 152.4 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11745,7 +11744,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 152.4 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11818,7 +11817,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 101.6 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12031,7 +12030,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 50.8 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12104,7 +12103,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 203.2 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12317,7 +12316,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 101.6 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12600,7 +12599,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 50.8 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12883,7 +12882,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 50.8 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12956,7 +12955,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 76.2 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13169,7 +13168,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 76.2 160.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13242,7 +13241,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 177.8 160.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13455,7 +13454,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 177.8 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13528,7 +13527,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 127 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13951,7 +13950,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 152.4 160.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14234,7 +14233,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 50.8 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14307,7 +14306,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 203.2 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14380,7 +14379,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 50.8 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14663,7 +14662,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 50.8 160.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14736,7 +14735,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 76.2 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15299,7 +15298,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 127 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15582,7 +15581,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 76.2 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16075,7 +16074,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 203.2 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16148,7 +16147,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 177.8 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16221,7 +16220,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 127 160.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16364,7 +16363,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_Dual")
+		(lib_id "mass:SW_Push_Dual")
 		(at 76.2 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)

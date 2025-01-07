@@ -97,7 +97,7 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
+        "silk_edge_clearance": "ignore",
         "silk_over_copper": "ignore",
         "silk_overlap": "ignore",
         "skew_out_of_range": "error",
@@ -252,9 +252,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "pin_to_pin|2463800|1219200|fa4d181c-5216-4522-9db6-eee010f75676|fa4d181c-5216-4522-9db6-eee010f75676|/91af5a4b-5f23-44d6-90d8-0a04513e8c93/41b52e08-2c8b-489c-8351-03e2c976897f|/91af5a4b-5f23-44d6-90d8-0a04513e8c93/41b52e08-2c8b-489c-8351-03e2c976897f|/91af5a4b-5f23-44d6-90d8-0a04513e8c93/a6bdd940-be59-4885-8b20-083045d4e03a"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -581,18 +579,6 @@
           "group_by": false,
           "label": "Description",
           "name": "Description",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Sim.Pins",
-          "name": "Sim.Pins",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Sim.Device",
-          "name": "Sim.Device",
           "show": false
         }
       ],

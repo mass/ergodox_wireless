@@ -1218,7 +1218,7 @@
 		)
 		(uuid "ff6d2beb-3114-47f9-aed4-f9204b0f7206")
 	)
-	(text "Note: The PCB is designed to be reversable,\nso the same PCB can be used for both left\nand right halves. Thus, the microcontroller\ncircuitry is present on both the top and\nbottom copper layers. Only one of the two\nwill ever be populated at a given time. The\ntop layer will be used for the left half and\nthe bottom layer for the right half. Signals\nfor each layer are completely isolated,\nexcept for GND."
+	(text "Note: The PCB is designed to be reversable,\nso the same PCB can be used for both left\nand right halves. Thus, the microcontroller\ncircuitry is present on both the top and\nbottom copper layers. Only one of the two\nwill ever be populated at a given time. The\ntop layer will be used for the left half and\nthe bottom layer for the right half. Signals\nfor each layer are completely isolated,\nexcept for GND and the rows / columns."
 		(exclude_from_sim no)
 		(at 15.24 200.66 0)
 		(effects
